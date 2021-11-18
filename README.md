@@ -8,4 +8,5 @@ _Markdown_ es un lenguaje de escritura estructurada tipo Wikipedia
   * Anidades
 * Titulos con `#` y secciones con varios `##`
 * Acepta formulas de LaTeX como $\sum_ix_i$
-* etc,etc,etc,
+* etc,etc,etc [ver ayuda en GitHub] (link)
+* Insertar imagen ![Pepa](./pepita.jpg)
